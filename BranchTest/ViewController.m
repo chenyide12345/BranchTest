@@ -20,6 +20,12 @@
     [self creaView];
     
 }
+-(void)setup
+{
+    
+    NSLog(@"1111");
+
+}
 -(void)creaView
 {
     NSLog(@"哈哈哈");
