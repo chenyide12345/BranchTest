@@ -17,6 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    [self creaView];
+    
+}
+-(void)creaView
+{
+    NSLog(@"哈哈哈");
+
 }
 
 - (void)sayHello
